@@ -9,7 +9,8 @@ IronPythonでは動作しなかった。
 ctypesモジュールを使って生成する配列の型がIronPythonの型で生成されてしまうのが問題っぽいが、  
 それが正しいのかも不明で、回避策も不明のまま。
 
-ファイル：IronPyJoyStickTest1.py
+ファイル：IronPyJoyStickTest1.py  
+参考サイト：https://github.com/Rabbid76/python_windows_joystickapi
 
 ## 方法2(実現)
 上記のAPIを利用したC#コードを文字列で記述して、それを動的コンパイルすることでIronPython側で検知した結果だけ得る方法。
