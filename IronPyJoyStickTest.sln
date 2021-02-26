@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "IronPyJoyStickTest", "IronPyJoyStickTest.pyproj", "{6B2397F2-51EF-4B6A-9D3E-8998227B011F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B2397F2-51EF-4B6A-9D3E-8998227B011F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B2397F2-51EF-4B6A-9D3E-8998227B011F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83709541-CBD1-4945-B2CD-BC278C3196EB}
+	EndGlobalSection
+EndGlobal
