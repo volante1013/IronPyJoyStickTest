@@ -16,6 +16,7 @@ ctypesモジュールを使って生成する配列の型がIronPythonの型で�
 joyGetPosEx()を呼んでPython側で結果を処理しようとするとなぜか入力が検知されなかったので、  
 C#側で入力の検知まで行ってPython側ではその結果だけを受け取る方式にすれば正常に動作した。
 
-ファイル：IronPyJoyStickTest2.py, generate.py
-
-
+ファイル：IronPyJoyStickTest2.py, generate.py  
+参考サイト：  
+http://www.voidspace.org.uk/ironpython/dynamically_compiling.shtml  
+https://gist.github.com/mfakane/1176549
